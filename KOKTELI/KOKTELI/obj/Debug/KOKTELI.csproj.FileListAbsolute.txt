@@ -1,0 +1,7 @@
+C:\Users\Kukec\Documents\Škola\3 Semestar\OOP\Zadaci\KOKTELI\KOKTELI\bin\Debug\KOKTELI.exe.config
+C:\Users\Kukec\Documents\Škola\3 Semestar\OOP\Zadaci\KOKTELI\KOKTELI\bin\Debug\KOKTELI.exe
+C:\Users\Kukec\Documents\Škola\3 Semestar\OOP\Zadaci\KOKTELI\KOKTELI\bin\Debug\KOKTELI.pdb
+C:\Users\Kukec\Documents\Škola\3 Semestar\OOP\Zadaci\KOKTELI\KOKTELI\obj\Debug\KOKTELI.csprojAssemblyReference.cache
+C:\Users\Kukec\Documents\Škola\3 Semestar\OOP\Zadaci\KOKTELI\KOKTELI\obj\Debug\KOKTELI.csproj.CoreCompileInputs.cache
+C:\Users\Kukec\Documents\Škola\3 Semestar\OOP\Zadaci\KOKTELI\KOKTELI\obj\Debug\KOKTELI.exe
+C:\Users\Kukec\Documents\Škola\3 Semestar\OOP\Zadaci\KOKTELI\KOKTELI\obj\Debug\KOKTELI.pdb
